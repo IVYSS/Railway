@@ -16,3 +16,11 @@ a {
   margin: 0;
   padding: 0;
 }
+
+@font-face {
+  font-family: 'THSarabunChula';
+  src: url('../asset/Thsarabun/THSarabun.ttf');
+  src: url('../asset/Thsarabun/THSarabun\ Bold.ttf');
+  src: url('../asset/Thsarabun/THSarabun\ Bold\ Italic.ttf');
+
+}
